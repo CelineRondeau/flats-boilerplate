@@ -33,7 +33,7 @@
     "price": 115,
     "priceCurrency": "CAD",
     "lat": 45.49472419324101,
-    "lng": 2.343371
+    "lng": -73.57136781210266
   },
   {
     "id": 210,
@@ -41,7 +41,7 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
     "priceCurrency": "CAD",
-    "lat": 45.49515617744368,
+    "lat": 45.48369032601707,
     "lng": -73.55075855622255
   },
   {
